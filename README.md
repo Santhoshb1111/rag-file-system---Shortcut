@@ -1,1 +1,1 @@
-# rag-file-system---Shortcut
+Developed a Retrieval-Augmented Generation (RAG) indexing pipeline using custom embeddings and FAISS. The system processes document chunks, generates vector embeddings, and builds a semantic search index to enable efficient contextual retrieval for LLM-powered applications.
